@@ -2,7 +2,7 @@
 
 <h1>Hi, I'm Nehan 👋</h1>
 
-<p>A student who likes programming, running Minecraft servers and building Discord bots.</p>
+<p>Student into minecraft servers, discord bots and programming.</p>
 
 <img src="https://img.shields.io/badge/Minecraft_Servers-62B47A?style=for-the-badge" alt="Minecraft Servers">
 <img src="https://img.shields.io/badge/Discord_Bots-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord & Bots Setup">
