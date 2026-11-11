@@ -41,7 +41,7 @@
 <h2>Projects</h2>
 
 <img src="https://img.shields.io/badge/CURRENT-SculkSMP-0E7490?style=for-the-badge&labelColor=1E293B" alt="Current: SculkSMP">
-<p>My current Minecraft server project.<br>I manage and develop it.</p>
+Currently only @ SculkSMP
 
 <sub>PREVIOUS</sub><br>
 <img src="https://img.shields.io/badge/DecourSMP-475569?style=flat-square" alt="DecourSMP">
