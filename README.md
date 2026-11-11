@@ -41,9 +41,9 @@
 <h2>Projects</h2>
 
 <img src="https://img.shields.io/badge/CURRENT-SculkSMP-0E7490?style=for-the-badge&labelColor=1E293B" alt="Current: SculkSMP">
-Currently only @ SculkSMP
+<br> Currently only @ SculkSMP
 
-<sub>PREVIOUS</sub><br>
+<h4>PREVIOUS</h4><br>
 <img src="https://img.shields.io/badge/DecourSMP-475569?style=flat-square" alt="DecourSMP">
 <img src="https://img.shields.io/badge/MoonSMP-475569?style=flat-square" alt="MoonSMP">
 
